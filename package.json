@@ -19,7 +19,7 @@
 		"@companion-module/base": "~1.11.3"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^2.2.3",
+		"@companion-module/tools": "^2.6.1",
 		"eslint": "^9.24.0",
 		"prettier": "^3.5.3"
 	},
