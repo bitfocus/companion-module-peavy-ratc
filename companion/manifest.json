@@ -3,7 +3,7 @@
 	"type": "connection",
 	"id": "peavy-ratc",
 	"name": "Peavy RATCv1 / RATCv2",
-	"shortname": "RATCv1 / RATCv2",
+	"shortname": "RATC",
 	"description": "Companion Module for control of Peavy DSPs supporting RATCv1 / RATCv2",
 	"version": "0.0.0",
 	"license": "MIT",
